@@ -13,9 +13,11 @@
 
 ## About me
 
-- University student, doing my Masters (Software Engineering and Digital Transformation)
+- Web developer / Software engineer, doing my Masters (Software Engineering and Digital Transformation). Currently studies paused, looking for thesis subject.
 
-- At the moment exploring Cybersecurity in my free time. Also big fan of ARG's, like [ae27ff](https://ae27ff.meme.tips/about.php)
+- Portfolio [website](https://purkkilo-portfolio-purkkilos-projects.vercel.app/)
+
+- Big fan of ARG's, like [ae27ff](https://ae27ff.meme.tips/about.php). Interested in learning cyber security.
 
 ### Languages and Tools:
 
